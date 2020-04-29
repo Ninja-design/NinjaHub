@@ -1,3 +1,3 @@
 # NinjaHub
 # NinjaSlicer
-# NinjaHub
+# NinjaSilent
